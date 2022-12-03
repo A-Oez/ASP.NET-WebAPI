@@ -1,0 +1,234 @@
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\appsettings.json
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.exe
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.deps.json
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.runtimeconfig.json
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.pdb
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.csproj.AssemblyReference.cache
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.AssemblyInfoInputs.cache
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.AssemblyInfo.cs
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.IntroductionASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.build.IntroductionASPNET.props
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IntroductionASPNET.props
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IntroductionASPNET.props
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\scopedcss\bundle\IntroductionASPNET.styles.css
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.csproj.CopyComplete
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\refint\IntroductionASPNET.dll
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.pdb
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.genruntimeconfig.cache
+C:\Users\Ahmet Ö\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\ref\IntroductionASPNET.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\appsettings.Development.json
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\appsettings.json
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.exe
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.deps.json
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.pdb
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Humanizer.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.OpenApi.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Drawing.Common.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Runtime.Caching.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Security.Permissions.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Windows.Extensions.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.MvcApplicationPartsAssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.MvcApplicationPartsAssemblyInfo.cache
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.IntroductionASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.build.IntroductionASPNET.props
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IntroductionASPNET.props
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IntroductionASPNET.props
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets.pack.json
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets.build.json
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets.development.json
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\scopedcss\bundle\IntroductionASPNET.styles.css
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.csproj.CopyComplete
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\refint\IntroductionASPNET.dll
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.pdb
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\Projects\Coding\C#\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\ref\IntroductionASPNET.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\appsettings.json
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.exe
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.deps.json
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.runtimeconfig.json
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\IntroductionASPNET.pdb
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.csproj.AssemblyReference.cache
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.AssemblyInfoInputs.cache
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.AssemblyInfo.cs
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.IntroductionASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.build.IntroductionASPNET.props
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IntroductionASPNET.props
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IntroductionASPNET.props
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\scopedcss\bundle\IntroductionASPNET.styles.css
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.csproj.CopyComplete
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\refint\IntroductionASPNET.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.pdb
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\IntroductionASPNET.genruntimeconfig.cache
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\obj\Debug\net7.0\ref\IntroductionASPNET.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\LanguageExt.Core.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Moq.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Serilog.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\DAL.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\DAL.pdb
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Ahmet Ö\OneDrive\Desktop\Projects\SampleProjects\IntroductionASPNET\IntroductionASPNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
