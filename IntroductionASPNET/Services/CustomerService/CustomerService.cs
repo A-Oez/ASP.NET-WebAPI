@@ -172,7 +172,7 @@
         {
             if (checkDB is null)
             {
-                var exception = new NullReferenceException("the given ID " + checkDB.UserId.ToString() + " does not exists");
+                var exception = new NullReferenceException("the given ID does not exists");
                 return new Result<Customer>(exception);
             }
 
